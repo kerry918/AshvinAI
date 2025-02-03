@@ -1,0 +1,79 @@
+.app {
+  background-image: linear-gradient(#E2EBFF, #FFFFC5);
+  font-family: "Lucida Console", "Courier New", monospace;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+.inner-container {
+  padding: 2%;
+}
+
+.app-header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-header {
+  margin: 0;
+}
+
+.app-header-right {
+  display: flex;
+  flex-direction: row;
+  width: 25%;
+  justify-content: space-between;
+}
+
+.nav-link {
+  text-decoration: underline;
+  color: black;
+}
+
+.document-body-container {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+}
+
+.document-container {
+  width: 40%;
+  position: relative;
+}
+
+.react-pdf__Page__canvas {
+  margin: 0;
+  width: 500px !important;
+  height: 700px !important;
+}
+
+.page-control {
+  background-color: hsl(114, 0%, 80%, 0.8);
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.page-button {
+  border-radius: 20px;
+  padding: 5px 10px;
+  margin: 5px;
+  margin-bottom: 0px;
+}
+
+.document-list {
+  width: 40%;
+}
+
+.document-title {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.document-section {
+  margin-top: 2%;
+}

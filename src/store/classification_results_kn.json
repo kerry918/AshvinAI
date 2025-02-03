@@ -1,0 +1,89 @@
+{
+  "results": [
+    {
+      "filename": "Compliance Report 1.pdf",
+      "classification": "Compliance Report"
+    },
+    {
+      "filename": "Compliance Report 2.pdf",
+      "classification": "Compliance Report"
+    },
+    {
+      "filename": "Compliance Report 3.pdf",
+      "classification": "Compliance Report"
+    },
+    {
+      "filename": "Compliance Report 4.pdf",
+      "classification": "Compliance Report"
+    },
+    {
+      "filename": "Order 1.pdf",
+      "classification": "Order"
+    },
+    {
+      "filename": "Delivery Ticket 1.pdf",
+      "classification": "Delivery Ticket"
+    },
+    {
+      "filename": "Order 2.pdf",
+      "classification": "Order"
+    },
+    {
+      "filename": "Order 3.pdf",
+      "classification": "Order"
+    },
+    {
+      "filename": "Order 4.pdf",
+      "classification": "Order"
+    },
+    {
+      "filename": "Sleep Study Report 4.pdf",
+      "classification": "Sleep Study Report"
+    },
+    {
+      "filename": "Sleep Study Report 2.pdf",
+      "classification": "Order"
+    },
+    {
+      "filename": "Sleep Study Report 1.pdf",
+      "classification": "Sleep Study Report"
+    },
+    {
+      "filename": "Prescription 4.pdf",
+      "classification": "Prescription"
+    },
+    {
+      "filename": "Prescription 2.pdf",
+      "classification": "Prescription"
+    },
+    {
+      "filename": "Prescription 1.pdf",
+      "classification": "Order"
+    },
+    {
+      "filename": "Physician Notes 4.pdf",
+      "classification": "Sleep Study Report"
+    },
+    {
+      "filename": "Physician Notes 3.pdf",
+      "classification": "Order"
+    },
+    {
+      "filename": "Physician Notes 2.pdf",
+      "classification": "Physician Notes"
+    },
+    {
+      "filename": "Physician Notes 1.pdf",
+      "classification": "Physician Notes"
+    },
+    {
+      "filename": "Delivery Ticket 2.pdf",
+      "classification": "Delivery Ticket"
+    },
+    {
+      "filename": "Sleep Study Report 3.pdf",
+      "classification": "Order"
+    }
+  ],
+  "accuracy": 0.7619047619047619
+}
